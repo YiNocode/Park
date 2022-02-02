@@ -1,0 +1,1 @@
+<view><text>停车app</text><text>{{"用户名"+username}}</text><button data-event-opts="{{[['tap',[['LogOut',['$event']]]]]}}" bindtap="__e">退出登录</button></view>
